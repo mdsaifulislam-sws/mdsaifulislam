@@ -1,4 +1,4 @@
-## <img style="width: 100vw height: 110vh" src="https://abcinfomedia.in/india/software-development/img/Custom-Software-Development/c-s-d-s.gif"/>
+## <img src="https://abcinfomedia.in/india/software-development/img/Custom-Software-Development/c-s-d-s.gif"/>
 
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm <b> MD : SAIFUL ISLAM </b></h1>
 <h3 align="center">¯\_(ツ)_/¯ <br/> <br/>
