@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 <br /><br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=freelancersaiful20)]
+![trophy](https://github-profile-trophy.vercel.app/?username=freelancersaiful20)
 ### Connect with me:
 [<img align="left" alt="MD SAIFUL ISLAM | facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="freelancersaiful20 | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
